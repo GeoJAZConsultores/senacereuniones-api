@@ -10,4 +10,9 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\Jazani.Senace.Reuniones.Aplicacion\Jazani.Senace.Reuniones.Aplicacion.csproj" />
+    <ProjectReference Include="..\..\Jazani.Senace.Reuniones.Infraestructura\Jazani.Senace.Reuniones.Infraestructura.csproj" />
+  </ItemGroup>
+
 </Project>

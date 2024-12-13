@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="10.0.0" />
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="8.23.50" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jazani.Senace.Reuniones.Dominio\Jazani.Senace.Reuniones.Dominio.csproj" />
+  </ItemGroup>
+
 </Project>
