@@ -1,0 +1,6 @@
+@Jazani.Senace.Reuniones.Api_HostAddress = http://localhost:5197
+
+GET {{Jazani.Senace.Reuniones.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
