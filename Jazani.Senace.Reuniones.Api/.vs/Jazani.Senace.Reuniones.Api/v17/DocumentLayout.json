@@ -1,12 +1,163 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{308FFAB2-DFF3-4F2D-8307-918453807D05}|Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.api\\jazani.senace.reuniones.api\\controllers\\reuniones\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{308FFAB2-DFF3-4F2D-8307-918453807D05}|Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api.csproj|solutionrelative:jazani.senace.reuniones.api\\controllers\\reuniones\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D0FCE-CF7E-4868-AF4C-51586C91016B}|..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.aplicacion\\reuniones\\servicios\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D0FCE-CF7E-4868-AF4C-51586C91016B}|..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.aplicacion\\reuniones\\modelos\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D0FCE-CF7E-4868-AF4C-51586C91016B}|..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.aplicacion\\jazani.senace.reuniones.aplicacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630E973-44E5-4AFF-A5F6-9BDD0A5B8BF3}|..\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.dominio\\reuniones\\repositorios\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630E973-44E5-4AFF-A5F6-9BDD0A5B8BF3}|..\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.dominio\\reuniones\\modelos\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DD7120-9718-4E42-B80E-EEA308FC615A}|..\\Jazani.Senace.Reuniones.Infraestructura\\Jazani.Senace.Reuniones.Infraestructura.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.infraestructura\\reuniones\\persistencias\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30DD7120-9718-4E42-B80E-EEA308FC615A}|..\\Jazani.Senace.Reuniones.Infraestructura\\Jazani.Senace.Reuniones.Infraestructura.csproj|d:\\test-angular\\senacereuniones-api\\jazani.senace.reuniones.infraestructura\\reuniones\\configuraciones\\.gitkeep||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api\\Controllers\\Reuniones\\.gitkeep",
+              "RelativeDocumentMoniker": "Jazani.Senace.Reuniones.Api\\Controllers\\Reuniones\\.gitkeep",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api\\Controllers\\Reuniones\\.gitkeep",
+              "RelativeToolTip": "Jazani.Senace.Reuniones.Api\\Controllers\\Reuniones\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:21:38.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Servicios\\.gitkeep",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Servicios\\.gitkeep",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Servicios\\.gitkeep",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Servicios\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:21:12.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Modelos\\.gitkeep",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Modelos\\.gitkeep",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Modelos\\.gitkeep",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Aplicacion\\Reuniones\\Modelos\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:21:07.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jazani.Senace.Reuniones.Aplicacion",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-17T18:18:45.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Repositorios\\.gitkeep",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Repositorios\\.gitkeep",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Repositorios\\.gitkeep",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Repositorios\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:18:41.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Modelos\\.gitkeep",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Modelos\\.gitkeep",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Modelos\\.gitkeep",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Dominio\\Reuniones\\Modelos\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:17:21.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Persistencias\\.gitkeep",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Persistencias\\.gitkeep",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Persistencias\\.gitkeep",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Persistencias\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:14:36.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitkeep",
+              "DocumentMoniker": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Configuraciones\\.gitkeep",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Configuraciones\\.gitkeep",
+              "ToolTip": "D:\\Test-Angular\\senacereuniones-api\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Configuraciones\\.gitkeep",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Infraestructura\\Reuniones\\Configuraciones\\.gitkeep",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-17T18:13:22.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1582,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

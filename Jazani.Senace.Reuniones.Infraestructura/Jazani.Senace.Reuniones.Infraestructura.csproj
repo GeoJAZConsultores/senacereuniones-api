@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Jazani.Senace.Reuniones.Dominio\Jazani.Senace.Reuniones.Dominio.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Reuniones\Persistencias\" />
+  </ItemGroup>
+
 </Project>

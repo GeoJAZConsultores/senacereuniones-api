@@ -19,5 +19,10 @@
 		<ProjectReference Include="..\Jazani.Senace.Reuniones.Dominio\Jazani.Senace.Reuniones.Dominio.csproj" />
 		<ProjectReference Include="..\Jazani.Senace.Reuniones.Utils\Jazani.Senace.Reuniones.Utils.csproj" />
 	</ItemGroup>
+	
+	<ItemGroup>
+	  <Folder Include="Reuniones\Modelos\" />
+	  <Folder Include="Reuniones\Servicios\" />
+	</ItemGroup>
 
 </Project>

@@ -15,4 +15,8 @@
     <ProjectReference Include="..\..\Jazani.Senace.Reuniones.Infraestructura\Jazani.Senace.Reuniones.Infraestructura.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\Reuniones\" />
+  </ItemGroup>
+
 </Project>
