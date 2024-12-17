@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jazani.Senace.Reuniones.Utils")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbb7d68d56bf2dcde45d6d1df92e97957b07d532")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jazani.Senace.Reuniones.Utils")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jazani.Senace.Reuniones.Utils")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

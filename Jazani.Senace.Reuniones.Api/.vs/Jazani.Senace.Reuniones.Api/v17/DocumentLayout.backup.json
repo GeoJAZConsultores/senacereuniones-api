@@ -1,12 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Api\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{308FFAB2-DFF3-4F2D-8307-918453807D05}|Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api.csproj|d:\\trabajos\\jazani\\proyectos\\senace\\senacereuniones-api\\jazani.senace.reuniones.api\\jazani.senace.reuniones.api\\controllers\\acreditaciones\\acreditacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{308FFAB2-DFF3-4F2D-8307-918453807D05}|Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api.csproj|solutionrelative:jazani.senace.reuniones.api\\controllers\\acreditaciones\\acreditacioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D0FCE-CF7E-4868-AF4C-51586C91016B}|..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj|d:\\trabajos\\jazani\\proyectos\\senace\\senacereuniones-api\\jazani.senace.reuniones.aplicacion\\acreditaciones\\services\\implementaciones\\acreditacionservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D0FCE-CF7E-4868-AF4C-51586C91016B}|..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj|d:\\trabajos\\jazani\\proyectos\\senace\\senacereuniones-api\\jazani.senace.reuniones.aplicacion\\acreditaciones\\models\\acreditaciones\\acreditacionfilterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D0FCE-CF7E-4868-AF4C-51586C91016B}|..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj|d:\\trabajos\\jazani\\proyectos\\senace\\senacereuniones-api\\jazani.senace.reuniones.aplicacion\\acreditaciones\\models\\acreditaciones\\profiles\\acreditacionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E630E973-44E5-4AFF-A5F6-9BDD0A5B8BF3}|..\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj|d:\\trabajos\\jazani\\proyectos\\senace\\senacereuniones-api\\jazani.senace.reuniones.dominio\\acreditaciones\\models\\acreditacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6D0FCE-CF7E-4868-AF4C-51586C91016B}|..\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj|d:\\trabajos\\jazani\\proyectos\\senace\\senacereuniones-api\\jazani.senace.reuniones.aplicacion\\acreditaciones\\models\\acreditaciones\\acreditacionsavedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AcreditacionController.cs",
+              "DocumentMoniker": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api\\Controllers\\Acreditaciones\\AcreditacionController.cs",
+              "RelativeDocumentMoniker": "Jazani.Senace.Reuniones.Api\\Controllers\\Acreditaciones\\AcreditacionController.cs",
+              "ToolTip": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Api\\Jazani.Senace.Reuniones.Api\\Controllers\\Acreditaciones\\AcreditacionController.cs",
+              "RelativeToolTip": "Jazani.Senace.Reuniones.Api\\Controllers\\Acreditaciones\\AcreditacionController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:50:48.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcreditacionServices.cs",
+              "DocumentMoniker": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Services\\Implementaciones\\AcreditacionServices.cs",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Services\\Implementaciones\\AcreditacionServices.cs",
+              "ToolTip": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Services\\Implementaciones\\AcreditacionServices.cs",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Services\\Implementaciones\\AcreditacionServices.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAABMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:46:07.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcreditacionFilterDto.cs",
+              "DocumentMoniker": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionFilterDto.cs",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionFilterDto.cs",
+              "ToolTip": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionFilterDto.cs",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionFilterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T23:15:09.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AcreditacionSaveDto.cs",
+              "DocumentMoniker": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionSaveDto.cs",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionSaveDto.cs",
+              "ToolTip": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionSaveDto.cs",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\AcreditacionSaveDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:54:12.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Acreditacion.cs",
+              "DocumentMoniker": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Acreditaciones\\Models\\Acreditacion.cs",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Dominio\\Acreditaciones\\Models\\Acreditacion.cs",
+              "ToolTip": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Acreditaciones\\Models\\Acreditacion.cs",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Dominio\\Acreditaciones\\Models\\Acreditacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:52:19.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AcreditacionProfile.cs",
+              "DocumentMoniker": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\Profiles\\AcreditacionProfile.cs",
+              "RelativeDocumentMoniker": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\Profiles\\AcreditacionProfile.cs",
+              "ToolTip": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\Profiles\\AcreditacionProfile.cs",
+              "RelativeToolTip": "..\\Jazani.Senace.Reuniones.Aplicacion\\Acreditaciones\\Models\\Acreditaciones\\Profiles\\AcreditacionProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T22:44:38.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

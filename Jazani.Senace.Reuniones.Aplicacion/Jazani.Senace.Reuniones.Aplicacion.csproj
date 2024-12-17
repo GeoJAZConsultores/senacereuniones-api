@@ -11,7 +11,13 @@
     <PackageReference Include="AutoMapper" Version="12.0.1" />
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
     <PackageReference Include="FluentValidation" Version="11.3.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="2.1.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>
+	
+	<ItemGroup>
+		<ProjectReference Include="..\Jazani.Senace.Reuniones.Dominio\Jazani.Senace.Reuniones.Dominio.csproj" />
+		<ProjectReference Include="..\Jazani.Senace.Reuniones.Utils\Jazani.Senace.Reuniones.Utils.csproj" />
+	</ItemGroup>
 
 </Project>

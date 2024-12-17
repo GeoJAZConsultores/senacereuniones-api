@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "iPZlNh0qWiY=",
+  "dgSpecHash": "BAmwJVXY3Fg=",
   "success": true,
-  "projectFilePath": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Utils\\Jazani.Senace.Reuniones.Utils.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Utils\\Jazani.Senace.Reuniones.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chave\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512"
+  ],
   "logs": []
 }
