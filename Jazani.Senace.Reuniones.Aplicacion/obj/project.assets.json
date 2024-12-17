@@ -102,6 +102,19 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
+      "Microsoft.Extensions.Logging.Abstractions/2.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
       "Microsoft.Extensions.Options/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -181,6 +194,29 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "Jazani.Senace.Reuniones.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Jazani.Senace.Reuniones.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jazani.Senace.Reuniones.Dominio.dll": {}
+        }
+      },
+      "Jazani.Senace.Reuniones.Utils/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "2.1.1"
+        },
+        "compile": {
+          "bin/placeholder/Jazani.Senace.Reuniones.Utils.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Jazani.Senace.Reuniones.Utils.dll": {}
         }
       }
     }
@@ -385,6 +421,19 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Microsoft.Extensions.Logging.Abstractions/2.1.1": {
+      "sha512": "XRzK7ZF+O6FzdfWrlFTi1Rgj2080ZDsd46vzOjadHUB0Cz5kOvDG8vI7caa5YFrsHQpcfn0DxtjS4E46N4FZsA==",
+      "type": "package",
+      "path": "microsoft.extensions.logging.abstractions/2.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.xml",
+        "microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+        "microsoft.extensions.logging.abstractions.nuspec"
+      ]
+    },
     "Microsoft.Extensions.Options/6.0.0": {
       "sha512": "dzXN0+V1AyjOe2xcJ86Qbo233KHuLEY0njf/P2Kw8SfJU+d45HNS2ctJdnEnrWbM9Ye2eFgaC5Mj9otRMU6IsQ==",
       "type": "package",
@@ -514,6 +563,16 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Jazani.Senace.Reuniones.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Jazani.Senace.Reuniones.Dominio/Jazani.Senace.Reuniones.Dominio.csproj",
+      "msbuildProject": "../Jazani.Senace.Reuniones.Dominio/Jazani.Senace.Reuniones.Dominio.csproj"
+    },
+    "Jazani.Senace.Reuniones.Utils/1.0.0": {
+      "type": "project",
+      "path": "../Jazani.Senace.Reuniones.Utils/Jazani.Senace.Reuniones.Utils.csproj",
+      "msbuildProject": "../Jazani.Senace.Reuniones.Utils/Jazani.Senace.Reuniones.Utils.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -522,29 +581,30 @@
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 12.0.0",
       "Autofac.Extensions.DependencyInjection >= 10.0.0",
       "FluentValidation >= 11.3.0",
+      "Jazani.Senace.Reuniones.Dominio >= 1.0.0",
+      "Jazani.Senace.Reuniones.Utils >= 1.0.0",
+      "Microsoft.Extensions.Logging.Abstractions >= 2.1.1",
       "Newtonsoft.Json >= 13.0.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\erick\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\chave\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
+      "projectUniqueName": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
       "projectName": "Jazani.Senace.Reuniones.Aplicacion",
-      "projectPath": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
-      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-      "outputPath": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Aplicacion\\obj\\",
+      "projectPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\Jazani.Senace.Reuniones.Aplicacion.csproj",
+      "packagesPath": "C:\\Users\\chave\\.nuget\\packages\\",
+      "outputPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Aplicacion\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\chave\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -553,12 +613,20 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj": {
+              "projectPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj"
+            },
+            "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Utils\\Jazani.Senace.Reuniones.Utils.csproj": {
+              "projectPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Utils\\Jazani.Senace.Reuniones.Utils.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -569,9 +637,8 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+        "auditMode": "direct"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -592,6 +659,10 @@
           "FluentValidation": {
             "target": "Package",
             "version": "[11.3.0, )"
+          },
+          "Microsoft.Extensions.Logging.Abstractions": {
+            "target": "Package",
+            "version": "[2.1.1, )"
           },
           "Newtonsoft.Json": {
             "target": "Package",
@@ -614,7 +685,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj": {}
+    "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj": {}
   },
   "projects": {
-    "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj": {
+    "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj",
+        "projectUniqueName": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj",
         "projectName": "Jazani.Senace.Reuniones.Dominio",
-        "projectPath": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj",
-        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "D:\\JAZANI\\SENACE\\Backend\\reuniones\\Jazani.Senace.Reuniones.Dominio\\obj\\",
+        "projectPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\Jazani.Senace.Reuniones.Dominio.csproj",
+        "packagesPath": "C:\\Users\\chave\\.nuget\\packages\\",
+        "outputPath": "D:\\Trabajos\\Jazani\\Proyectos\\Senace\\senacereuniones-api\\Jazani.Senace.Reuniones.Dominio\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chave\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -43,9 +43,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -66,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

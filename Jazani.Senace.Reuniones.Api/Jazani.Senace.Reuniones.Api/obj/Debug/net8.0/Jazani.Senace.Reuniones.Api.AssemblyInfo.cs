@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jazani.Senace.Reuniones.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97eac8b23a543b080526f2392229fea9f734ee19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fbb7d68d56bf2dcde45d6d1df92e97957b07d532")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jazani.Senace.Reuniones.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jazani.Senace.Reuniones.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
